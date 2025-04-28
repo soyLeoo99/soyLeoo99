@@ -13,7 +13,7 @@
 
 
 <!--Intro start-->
-- 🌀 I just ... I like to program and learn new things.**
+- 🌀 I just ... I like to program and learn new things.
 
 
 <!--h1 without bottom border-->
@@ -25,7 +25,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,java,js,go,python,linux,kali,mint,ubuntu,vscode,vscodium&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,java,js,go,python,bash,linux,kali,mint,ubuntu,vscode,vscodium&perline=14" />
   </a>
 </p>
 
