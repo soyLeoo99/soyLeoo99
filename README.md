@@ -14,7 +14,7 @@
 
 <!--Intro start-->
 - ▪️▫️ I'm Software Developer.
-- ▪️▫️ I like Programming.
+- ▪️▫️ I like Programming and learn new things.
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
