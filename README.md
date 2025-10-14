@@ -24,7 +24,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,aws,java,python,bash,go,docker,kubernetes,js&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,aws,java,astro,python,bash,react,go,docker,kubernetes,js&perline=14" />
   </a>
 </p>
 
