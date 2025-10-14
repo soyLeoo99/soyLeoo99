@@ -1,7 +1,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Leoo</h1></summary>
+    <summary><h1 style="display: inline-block"> </h1></summary>
   </ul>
 </div>
 <!--h2 without bottom border-->
@@ -13,19 +13,18 @@
 
 
 <!--Intro start-->
-- 🌀 I just ... I like to program and learn new things.
-
+- ▪️▫️ I'm Software Developer
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">What I know 〰️ </h2></summary>
+    <summary><h2 style="display: inline-block"> </h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,java,js,go,python,bash,linux,kali,mint,ubuntu,vscode,vscodium&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,java,js,go,python,bash,linux,ubuntu,vscode&perline=14" />
   </a>
 </p>
 
