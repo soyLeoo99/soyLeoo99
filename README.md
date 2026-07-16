@@ -20,8 +20,5 @@ $ echo "My Skills: "
 🛠️ Tools:         Claude Code, Notion, Obsidian, Jenkins, Wireshark
 ```
 
-   
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lednnatt&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lednnatt&theme=github_dark&utcOffset=8)
   
 </div>
